@@ -1,0 +1,17 @@
+hello,y
+hlleo,y
+hallo,n
+hcjdk,n
+asldk,n
+hlelo,y
+djsds,n
+lelho,y
+lalho,n
+kflho,n
+hemko,n
+lhelo,y
+holle,y
+iolld,n
+whati,n
+lelho,y
+abcdefghijklmnopqrstuvwzyz,n
